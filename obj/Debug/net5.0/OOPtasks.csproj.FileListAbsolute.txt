@@ -1,0 +1,5 @@
+C:\Users\mitro\Desktop\files\OOPtasks\obj\Debug\net5.0\OOPtasks.csproj.AssemblyReference.cache
+C:\Users\mitro\Desktop\files\OOPtasks\obj\Debug\net5.0\OOPtasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mitro\Desktop\files\OOPtasks\obj\Debug\net5.0\OOPtasks.AssemblyInfoInputs.cache
+C:\Users\mitro\Desktop\files\OOPtasks\obj\Debug\net5.0\OOPtasks.AssemblyInfo.cs
+C:\Users\mitro\Desktop\files\OOPtasks\obj\Debug\net5.0\OOPtasks.csproj.CoreCompileInputs.cache
