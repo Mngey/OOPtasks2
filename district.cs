@@ -6,7 +6,7 @@ namespace OOPtasks
     {
         private string title, city;
         private int districtID, numberOfOfficers;
- 
+
         Officer[] officersInDistrict;
         private int lastIndexOfficer = -1;
 
@@ -82,7 +82,7 @@ namespace OOPtasks
             int count = 0;
             foreach (Officer officer in this.officersInDistrict)
             {
-                
+
                 if (officer == null)
                     break;
                 else
@@ -91,20 +91,34 @@ namespace OOPtasks
             return count;
 
         }
+        public float calculateAvgLevelInDistrict()
+        {
+            float sum = 0.0f;
+            int officerCount = getNumberOfOfficerInDistrict();
+            foreach (Officer officer in this.officersInDistrict)
+            {
+                if (officer == null)
+                    break;
+                else
+                    sum += (float)(officer.calculatedLevel());
+            }
+            sum = sum / (float)officerCount;
+            return sum;
+        }
 
-  
 
         public override string ToString()
         {
             return "Title : " + this.title + "\n" +
            "City : " + this.city + "\n" +
            "District ID : " + this.districtID + "\n" +
-           "Number of officers : " + getNumberOfOfficerInDistrict() + "\n";
+           "Number of officers : " + getNumberOfOfficerInDistrict() + "\n" +
+           "Average level in District: " + calculateAvgLevelInDistrict();
 
 
         }
     }
-  
+
 
 }
 

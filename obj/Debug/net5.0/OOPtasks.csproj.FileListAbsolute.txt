@@ -3,3 +3,14 @@ C:\Users\mitro\Desktop\files\OOPtasks\obj\Debug\net5.0\OOPtasks.GeneratedMSBuild
 C:\Users\mitro\Desktop\files\OOPtasks\obj\Debug\net5.0\OOPtasks.AssemblyInfoInputs.cache
 C:\Users\mitro\Desktop\files\OOPtasks\obj\Debug\net5.0\OOPtasks.AssemblyInfo.cs
 C:\Users\mitro\Desktop\files\OOPtasks\obj\Debug\net5.0\OOPtasks.csproj.CoreCompileInputs.cache
+C:\Users\mitro\Desktop\files\OOPtasks\bin\Debug\net5.0\OOPtasks.exe
+C:\Users\mitro\Desktop\files\OOPtasks\bin\Debug\net5.0\OOPtasks.deps.json
+C:\Users\mitro\Desktop\files\OOPtasks\bin\Debug\net5.0\OOPtasks.runtimeconfig.json
+C:\Users\mitro\Desktop\files\OOPtasks\bin\Debug\net5.0\OOPtasks.runtimeconfig.dev.json
+C:\Users\mitro\Desktop\files\OOPtasks\bin\Debug\net5.0\OOPtasks.dll
+C:\Users\mitro\Desktop\files\OOPtasks\bin\Debug\net5.0\ref\OOPtasks.dll
+C:\Users\mitro\Desktop\files\OOPtasks\bin\Debug\net5.0\OOPtasks.pdb
+C:\Users\mitro\Desktop\files\OOPtasks\obj\Debug\net5.0\OOPtasks.dll
+C:\Users\mitro\Desktop\files\OOPtasks\obj\Debug\net5.0\ref\OOPtasks.dll
+C:\Users\mitro\Desktop\files\OOPtasks\obj\Debug\net5.0\OOPtasks.pdb
+C:\Users\mitro\Desktop\files\OOPtasks\obj\Debug\net5.0\OOPtasks.genruntimeconfig.cache
